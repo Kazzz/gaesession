@@ -1,4 +1,4 @@
-module github.com/icza/gaesession
+module github.com/Kazzz/gaesession
 
 go 1.13
 

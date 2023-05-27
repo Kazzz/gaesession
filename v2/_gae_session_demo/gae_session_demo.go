@@ -9,7 +9,7 @@ Code demonstrates session access, creation and removal.
 package main
 
 import (
-	"github.com/icza/gaesession/v2"
+	"github.com/Kazzz/gaesession/v2"
 	"google.golang.org/appengine/v2"
 	"html/template"
 	"log"
