@@ -1,6 +1,6 @@
 module github.com/Kazzz/gaesession/v2
 
-go 1.18
+go 1.19
 
 require (
 	github.com/icza/session v1.2.0
